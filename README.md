@@ -4,7 +4,7 @@ Hey there! 👋
 
 this shit disables tracking on windows
 
-## WhatIt Do?
+## What It Do?
 
 ### `enhance_privacy.bat`
 
